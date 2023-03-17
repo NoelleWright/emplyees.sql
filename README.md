@@ -1,3 +1,4 @@
+<img width="479" alt="employees" src="https://user-images.githubusercontent.com/118686588/225781015-544c9046-7bae-4c23-93b4-b54bde851f73.png">
 # emplyees.sql
 ![EmployeeDB](https://user-images.githubusercontent.com/118686588/225780567-8543ba1c-6d47-4b5f-930f-a27c63f8f573.png)
 
