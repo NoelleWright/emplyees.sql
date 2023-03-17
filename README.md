@@ -1,2 +1,4 @@
 # emplyees.sql
 ![EmployeeDB](https://user-images.githubusercontent.com/118686588/225780567-8543ba1c-6d47-4b5f-930f-a27c63f8f573.png)
+
+In the employees sql data, the purpose was to analyze and determine the different employees from different departments and when they are set eligible to retire based on certain criteria. The data conducted ranged from specific hire dates and birth dates of employees from ranges 1952-1988. THe purpose was to determine which departments would need to hire more staff based on who was going to retire soon. After the data was conducted, it was determined that more than half of employees have met criteria that will soon set them to retire soon and leaving the senior employees to hire more candidates for each department to ensure job security for the company as well as future employees. Below, data is attached that describes the relationship between the company's employee's that determined this analysis. 
